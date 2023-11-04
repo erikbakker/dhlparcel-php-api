@@ -1,12 +1,12 @@
 {
-    "name": "mvdnbrk/dhlparcel-php-api",
+    "name": "erikbakker/dhlparcel-php-api",
     "description": "DHL Parcel API client for PHP",
     "keywords": [
         "dhl",
         "parcel",
         "api"
     ],
-    "homepage": "https://github.com/mvdnbrk/dhlparcel-php-api",
+    "homepage": "https://github.com/erikbakker/dhlparcel-php-api",
     "license": "MIT",
     "authors": [
         {
