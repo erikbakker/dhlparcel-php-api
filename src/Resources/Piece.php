@@ -4,6 +4,9 @@ namespace Mvdnbrk\DhlParcel\Resources;
 
 class Piece extends BaseResource
 {
+
+    const PARCEL_TYPE_ENVELOPE = 'ENVELOPE';
+    const PARCEL_TYPE_XSMALL = 'XSMALL';
     const PARCEL_TYPE_SMALL = 'SMALL';
     const PARCEL_TYPE_MEDIUM = 'MEDIUM';
     const PARCEL_TYPE_LARGE = 'LARGE';
